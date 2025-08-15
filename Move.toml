@@ -1,0 +1,8 @@
+[package]
+name = "Tienda"
+edition= "2024.beta"
+
+[dependencies]
+
+[addresses]
+tienda = "0x0"
